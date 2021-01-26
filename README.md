@@ -11,3 +11,6 @@
 
 3) It shoud be like that 
 
+      ![alt text](https://github.com/DilshanDilipudara/Go-http-Server/blob/main/screenshot_curl.png)
+        
+      ![alt text](https://github.com/DilshanDilipudara/Go-http-Server/blob/main/screenshot_web.png)
